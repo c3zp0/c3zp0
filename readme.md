@@ -8,9 +8,10 @@
 
 ### Current goals
  - NestJS
- - Electron + React
  - English C1+ (with TOEFT, who knows)
  - Distributed databases
+ - Cloud development
+ - Terraform
 
 ### Another resources
 - [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/c3zp0)
